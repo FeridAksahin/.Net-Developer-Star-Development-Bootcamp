@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Lesson09_Access_Modifiers_Homework/1.0.0": {
+        "runtime": {
+          "Lesson09_Access_Modifiers_Homework.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lesson09_Access_Modifiers_Homework/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

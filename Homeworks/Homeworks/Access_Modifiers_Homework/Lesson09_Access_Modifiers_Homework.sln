@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32505.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson09_Access_Modifiers_Homework", "Lesson09_Access_Modifiers_Homework\Lesson09_Access_Modifiers_Homework.csproj", "{43A70311-FD7B-4C7D-B8C6-2024676D90F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43A70311-FD7B-4C7D-B8C6-2024676D90F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43A70311-FD7B-4C7D-B8C6-2024676D90F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43A70311-FD7B-4C7D-B8C6-2024676D90F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43A70311-FD7B-4C7D-B8C6-2024676D90F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {04F02024-8B45-4EA2-BADB-FC567C9E2BD1}
+	EndGlobalSection
+EndGlobal
