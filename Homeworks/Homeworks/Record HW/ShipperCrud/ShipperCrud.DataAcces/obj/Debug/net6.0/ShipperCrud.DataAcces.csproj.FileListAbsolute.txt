@@ -1,0 +1,14 @@
+C:\Users\Doğukan Matuloğlu\source\repos\ShipperCrud\ShipperCrud.DataAcces\bin\Debug\net6.0\ShipperCrud.DataAcces.deps.json
+C:\Users\Doğukan Matuloğlu\source\repos\ShipperCrud\ShipperCrud.DataAcces\bin\Debug\net6.0\ShipperCrud.DataAcces.runtimeconfig.json
+C:\Users\Doğukan Matuloğlu\source\repos\ShipperCrud\ShipperCrud.DataAcces\bin\Debug\net6.0\ShipperCrud.DataAcces.dll
+C:\Users\Doğukan Matuloğlu\source\repos\ShipperCrud\ShipperCrud.DataAcces\bin\Debug\net6.0\ShipperCrud.DataAcces.pdb
+C:\Users\Doğukan Matuloğlu\source\repos\ShipperCrud\ShipperCrud.DataAcces\obj\Debug\net6.0\ShipperCrud.DataAcces.csproj.AssemblyReference.cache
+C:\Users\Doğukan Matuloğlu\source\repos\ShipperCrud\ShipperCrud.DataAcces\obj\Debug\net6.0\ShipperCrud.DataAcces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Doğukan Matuloğlu\source\repos\ShipperCrud\ShipperCrud.DataAcces\obj\Debug\net6.0\ShipperCrud.DataAcces.AssemblyInfoInputs.cache
+C:\Users\Doğukan Matuloğlu\source\repos\ShipperCrud\ShipperCrud.DataAcces\obj\Debug\net6.0\ShipperCrud.DataAcces.AssemblyInfo.cs
+C:\Users\Doğukan Matuloğlu\source\repos\ShipperCrud\ShipperCrud.DataAcces\obj\Debug\net6.0\ShipperCrud.DataAcces.csproj.CoreCompileInputs.cache
+C:\Users\Doğukan Matuloğlu\source\repos\ShipperCrud\ShipperCrud.DataAcces\obj\Debug\net6.0\ShipperCrud.DataAcces.dll
+C:\Users\Doğukan Matuloğlu\source\repos\ShipperCrud\ShipperCrud.DataAcces\obj\Debug\net6.0\refint\ShipperCrud.DataAcces.dll
+C:\Users\Doğukan Matuloğlu\source\repos\ShipperCrud\ShipperCrud.DataAcces\obj\Debug\net6.0\ShipperCrud.DataAcces.pdb
+C:\Users\Doğukan Matuloğlu\source\repos\ShipperCrud\ShipperCrud.DataAcces\obj\Debug\net6.0\ShipperCrud.DataAcces.genruntimeconfig.cache
+C:\Users\Doğukan Matuloğlu\source\repos\ShipperCrud\ShipperCrud.DataAcces\obj\Debug\net6.0\ref\ShipperCrud.DataAcces.dll

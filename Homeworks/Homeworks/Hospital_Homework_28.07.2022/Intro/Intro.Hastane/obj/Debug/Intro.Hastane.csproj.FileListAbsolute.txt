@@ -1,0 +1,41 @@
+C:\Users\melik\source\repos\SDP\Intro\Intro.Hastane\bin\Debug\Intro.Hastane.exe.config
+C:\Users\melik\source\repos\SDP\Intro\Intro.Hastane\bin\Debug\Intro.Hastane.exe
+C:\Users\melik\source\repos\SDP\Intro\Intro.Hastane\bin\Debug\Intro.Hastane.pdb
+C:\Users\melik\source\repos\SDP\Intro\Intro.Hastane\obj\Debug\Intro.Hastane.csproj.AssemblyReference.cache
+C:\Users\melik\source\repos\SDP\Intro\Intro.Hastane\obj\Debug\Intro.Hastane.Form1.resources
+C:\Users\melik\source\repos\SDP\Intro\Intro.Hastane\obj\Debug\Intro.Hastane.Form2.resources
+C:\Users\melik\source\repos\SDP\Intro\Intro.Hastane\obj\Debug\Intro.Hastane.Form3.resources
+C:\Users\melik\source\repos\SDP\Intro\Intro.Hastane\obj\Debug\Intro.Hastane.Properties.Resources.resources
+C:\Users\melik\source\repos\SDP\Intro\Intro.Hastane\obj\Debug\Intro.Hastane.csproj.GenerateResource.cache
+C:\Users\melik\source\repos\SDP\Intro\Intro.Hastane\obj\Debug\Intro.Hastane.csproj.CoreCompileInputs.cache
+C:\Users\melik\source\repos\SDP\Intro\Intro.Hastane\obj\Debug\Intro.Hastane.exe
+C:\Users\melik\source\repos\SDP\Intro\Intro.Hastane\obj\Debug\Intro.Hastane.pdb
+C:\Users\melik\source\repos\SDP\Intro\Intro.Hastane\obj\Debug\Intro.Hastane.Form4.resources
+C:\Users\Ferid\Desktop\Bilge Adam .NET\Lesson02\Intro\Intro.Hastane\bin\Debug\Intro.Hastane.exe.config
+C:\Users\Ferid\Desktop\Bilge Adam .NET\Lesson02\Intro\Intro.Hastane\bin\Debug\Intro.Hastane.exe
+C:\Users\Ferid\Desktop\Bilge Adam .NET\Lesson02\Intro\Intro.Hastane\bin\Debug\Intro.Hastane.pdb
+C:\Users\Ferid\Desktop\Bilge Adam .NET\Lesson02\Intro\Intro.Hastane\obj\Debug\Intro.Hastane.csproj.AssemblyReference.cache
+C:\Users\Ferid\Desktop\Bilge Adam .NET\Lesson02\Intro\Intro.Hastane\obj\Debug\Intro.Hastane.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ferid\Desktop\Bilge Adam .NET\Lesson02\Intro\Intro.Hastane\obj\Debug\Intro.Hastane.Form1.resources
+C:\Users\Ferid\Desktop\Bilge Adam .NET\Lesson02\Intro\Intro.Hastane\obj\Debug\Intro.Hastane.Form2.resources
+C:\Users\Ferid\Desktop\Bilge Adam .NET\Lesson02\Intro\Intro.Hastane\obj\Debug\Intro.Hastane.Form3.resources
+C:\Users\Ferid\Desktop\Bilge Adam .NET\Lesson02\Intro\Intro.Hastane\obj\Debug\Intro.Hastane.Form4.resources
+C:\Users\Ferid\Desktop\Bilge Adam .NET\Lesson02\Intro\Intro.Hastane\obj\Debug\Intro.Hastane.Properties.Resources.resources
+C:\Users\Ferid\Desktop\Bilge Adam .NET\Lesson02\Intro\Intro.Hastane\obj\Debug\Intro.Hastane.csproj.GenerateResource.cache
+C:\Users\Ferid\Desktop\Bilge Adam .NET\Lesson02\Intro\Intro.Hastane\obj\Debug\Intro.Hastane.csproj.CoreCompileInputs.cache
+C:\Users\Ferid\Desktop\Bilge Adam .NET\Lesson02\Intro\Intro.Hastane\obj\Debug\Intro.Hastane.exe
+C:\Users\Ferid\Desktop\Bilge Adam .NET\Lesson02\Intro\Intro.Hastane\obj\Debug\Intro.Hastane.pdb
+C:\Users\Ferid\Desktop\Lesson03Homework_28.07.2022\Intro\Intro.Hastane\bin\Debug\Intro.Hastane.exe.config
+C:\Users\Ferid\Desktop\Lesson03Homework_28.07.2022\Intro\Intro.Hastane\bin\Debug\Intro.Hastane.exe
+C:\Users\Ferid\Desktop\Lesson03Homework_28.07.2022\Intro\Intro.Hastane\bin\Debug\Intro.Hastane.pdb
+C:\Users\Ferid\Desktop\Lesson03Homework_28.07.2022\Intro\Intro.Hastane\obj\Debug\Intro.Hastane.csproj.AssemblyReference.cache
+C:\Users\Ferid\Desktop\Lesson03Homework_28.07.2022\Intro\Intro.Hastane\obj\Debug\Intro.Hastane.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ferid\Desktop\Lesson03Homework_28.07.2022\Intro\Intro.Hastane\obj\Debug\Intro.Hastane.Form1.resources
+C:\Users\Ferid\Desktop\Lesson03Homework_28.07.2022\Intro\Intro.Hastane\obj\Debug\Intro.Hastane.Form2.resources
+C:\Users\Ferid\Desktop\Lesson03Homework_28.07.2022\Intro\Intro.Hastane\obj\Debug\Intro.Hastane.Form3.resources
+C:\Users\Ferid\Desktop\Lesson03Homework_28.07.2022\Intro\Intro.Hastane\obj\Debug\Intro.Hastane.Form4.resources
+C:\Users\Ferid\Desktop\Lesson03Homework_28.07.2022\Intro\Intro.Hastane\obj\Debug\Intro.Hastane.Properties.Resources.resources
+C:\Users\Ferid\Desktop\Lesson03Homework_28.07.2022\Intro\Intro.Hastane\obj\Debug\Intro.Hastane.csproj.GenerateResource.cache
+C:\Users\Ferid\Desktop\Lesson03Homework_28.07.2022\Intro\Intro.Hastane\obj\Debug\Intro.Hastane.csproj.CoreCompileInputs.cache
+C:\Users\Ferid\Desktop\Lesson03Homework_28.07.2022\Intro\Intro.Hastane\obj\Debug\Intro.Hastane.exe
+C:\Users\Ferid\Desktop\Lesson03Homework_28.07.2022\Intro\Intro.Hastane\obj\Debug\Intro.Hastane.pdb

@@ -1,0 +1,15 @@
+C:\Users\Ferid\Desktop\Armator\Armator\bin\Debug\net6.0\Armator.exe
+C:\Users\Ferid\Desktop\Armator\Armator\bin\Debug\net6.0\Armator.deps.json
+C:\Users\Ferid\Desktop\Armator\Armator\bin\Debug\net6.0\Armator.runtimeconfig.json
+C:\Users\Ferid\Desktop\Armator\Armator\bin\Debug\net6.0\Armator.dll
+C:\Users\Ferid\Desktop\Armator\Armator\bin\Debug\net6.0\Armator.pdb
+C:\Users\Ferid\Desktop\Armator\Armator\obj\Debug\net6.0\Armator.csproj.AssemblyReference.cache
+C:\Users\Ferid\Desktop\Armator\Armator\obj\Debug\net6.0\Armator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ferid\Desktop\Armator\Armator\obj\Debug\net6.0\Armator.AssemblyInfoInputs.cache
+C:\Users\Ferid\Desktop\Armator\Armator\obj\Debug\net6.0\Armator.AssemblyInfo.cs
+C:\Users\Ferid\Desktop\Armator\Armator\obj\Debug\net6.0\Armator.csproj.CoreCompileInputs.cache
+C:\Users\Ferid\Desktop\Armator\Armator\obj\Debug\net6.0\Armator.dll
+C:\Users\Ferid\Desktop\Armator\Armator\obj\Debug\net6.0\refint\Armator.dll
+C:\Users\Ferid\Desktop\Armator\Armator\obj\Debug\net6.0\Armator.pdb
+C:\Users\Ferid\Desktop\Armator\Armator\obj\Debug\net6.0\Armator.genruntimeconfig.cache
+C:\Users\Ferid\Desktop\Armator\Armator\obj\Debug\net6.0\ref\Armator.dll

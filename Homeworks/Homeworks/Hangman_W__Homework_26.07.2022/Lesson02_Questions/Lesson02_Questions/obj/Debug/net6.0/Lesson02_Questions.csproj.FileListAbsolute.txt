@@ -1,0 +1,15 @@
+C:\Users\Ferid\Desktop\Lesson02Homework_26.07.2022\Lesson02_Questions\Lesson02_Questions\bin\Debug\net6.0\Lesson02_Questions.exe
+C:\Users\Ferid\Desktop\Lesson02Homework_26.07.2022\Lesson02_Questions\Lesson02_Questions\bin\Debug\net6.0\Lesson02_Questions.deps.json
+C:\Users\Ferid\Desktop\Lesson02Homework_26.07.2022\Lesson02_Questions\Lesson02_Questions\bin\Debug\net6.0\Lesson02_Questions.runtimeconfig.json
+C:\Users\Ferid\Desktop\Lesson02Homework_26.07.2022\Lesson02_Questions\Lesson02_Questions\bin\Debug\net6.0\Lesson02_Questions.dll
+C:\Users\Ferid\Desktop\Lesson02Homework_26.07.2022\Lesson02_Questions\Lesson02_Questions\bin\Debug\net6.0\Lesson02_Questions.pdb
+C:\Users\Ferid\Desktop\Lesson02Homework_26.07.2022\Lesson02_Questions\Lesson02_Questions\obj\Debug\net6.0\Lesson02_Questions.csproj.AssemblyReference.cache
+C:\Users\Ferid\Desktop\Lesson02Homework_26.07.2022\Lesson02_Questions\Lesson02_Questions\obj\Debug\net6.0\Lesson02_Questions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ferid\Desktop\Lesson02Homework_26.07.2022\Lesson02_Questions\Lesson02_Questions\obj\Debug\net6.0\Lesson02_Questions.AssemblyInfoInputs.cache
+C:\Users\Ferid\Desktop\Lesson02Homework_26.07.2022\Lesson02_Questions\Lesson02_Questions\obj\Debug\net6.0\Lesson02_Questions.AssemblyInfo.cs
+C:\Users\Ferid\Desktop\Lesson02Homework_26.07.2022\Lesson02_Questions\Lesson02_Questions\obj\Debug\net6.0\Lesson02_Questions.csproj.CoreCompileInputs.cache
+C:\Users\Ferid\Desktop\Lesson02Homework_26.07.2022\Lesson02_Questions\Lesson02_Questions\obj\Debug\net6.0\Lesson02_Questions.dll
+C:\Users\Ferid\Desktop\Lesson02Homework_26.07.2022\Lesson02_Questions\Lesson02_Questions\obj\Debug\net6.0\refint\Lesson02_Questions.dll
+C:\Users\Ferid\Desktop\Lesson02Homework_26.07.2022\Lesson02_Questions\Lesson02_Questions\obj\Debug\net6.0\Lesson02_Questions.pdb
+C:\Users\Ferid\Desktop\Lesson02Homework_26.07.2022\Lesson02_Questions\Lesson02_Questions\obj\Debug\net6.0\Lesson02_Questions.genruntimeconfig.cache
+C:\Users\Ferid\Desktop\Lesson02Homework_26.07.2022\Lesson02_Questions\Lesson02_Questions\obj\Debug\net6.0\ref\Lesson02_Questions.dll

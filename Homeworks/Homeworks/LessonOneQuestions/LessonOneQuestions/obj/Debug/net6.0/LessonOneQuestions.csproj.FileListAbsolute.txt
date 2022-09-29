@@ -1,0 +1,15 @@
+C:\Users\Ferid\Desktop\Bilge Adam .NET\LessonOneQuestions\LessonOneQuestions\bin\Debug\net6.0\LessonOneQuestions.exe
+C:\Users\Ferid\Desktop\Bilge Adam .NET\LessonOneQuestions\LessonOneQuestions\bin\Debug\net6.0\LessonOneQuestions.deps.json
+C:\Users\Ferid\Desktop\Bilge Adam .NET\LessonOneQuestions\LessonOneQuestions\bin\Debug\net6.0\LessonOneQuestions.runtimeconfig.json
+C:\Users\Ferid\Desktop\Bilge Adam .NET\LessonOneQuestions\LessonOneQuestions\bin\Debug\net6.0\LessonOneQuestions.dll
+C:\Users\Ferid\Desktop\Bilge Adam .NET\LessonOneQuestions\LessonOneQuestions\bin\Debug\net6.0\LessonOneQuestions.pdb
+C:\Users\Ferid\Desktop\Bilge Adam .NET\LessonOneQuestions\LessonOneQuestions\obj\Debug\net6.0\LessonOneQuestions.csproj.AssemblyReference.cache
+C:\Users\Ferid\Desktop\Bilge Adam .NET\LessonOneQuestions\LessonOneQuestions\obj\Debug\net6.0\LessonOneQuestions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ferid\Desktop\Bilge Adam .NET\LessonOneQuestions\LessonOneQuestions\obj\Debug\net6.0\LessonOneQuestions.AssemblyInfoInputs.cache
+C:\Users\Ferid\Desktop\Bilge Adam .NET\LessonOneQuestions\LessonOneQuestions\obj\Debug\net6.0\LessonOneQuestions.AssemblyInfo.cs
+C:\Users\Ferid\Desktop\Bilge Adam .NET\LessonOneQuestions\LessonOneQuestions\obj\Debug\net6.0\LessonOneQuestions.csproj.CoreCompileInputs.cache
+C:\Users\Ferid\Desktop\Bilge Adam .NET\LessonOneQuestions\LessonOneQuestions\obj\Debug\net6.0\LessonOneQuestions.dll
+C:\Users\Ferid\Desktop\Bilge Adam .NET\LessonOneQuestions\LessonOneQuestions\obj\Debug\net6.0\refint\LessonOneQuestions.dll
+C:\Users\Ferid\Desktop\Bilge Adam .NET\LessonOneQuestions\LessonOneQuestions\obj\Debug\net6.0\LessonOneQuestions.pdb
+C:\Users\Ferid\Desktop\Bilge Adam .NET\LessonOneQuestions\LessonOneQuestions\obj\Debug\net6.0\LessonOneQuestions.genruntimeconfig.cache
+C:\Users\Ferid\Desktop\Bilge Adam .NET\LessonOneQuestions\LessonOneQuestions\obj\Debug\net6.0\ref\LessonOneQuestions.dll
