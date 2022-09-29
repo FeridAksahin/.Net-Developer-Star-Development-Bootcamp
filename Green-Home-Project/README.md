@@ -10,6 +10,7 @@ It is a Windows form application project. Various design patterns were used in t
 - [x] Layered architecture
 <hr>
 Some screenshots from the app.
+![](images/1.png)
 <img src="images/1.png">
 <img src="images/2.png">
 <img src="images/3.png">
