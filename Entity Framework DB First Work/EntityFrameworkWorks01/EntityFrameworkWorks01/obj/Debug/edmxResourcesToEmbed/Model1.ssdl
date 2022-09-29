@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="DBStudentExamModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="TABLELESSON">
+    <Key>
+      <PropertyRef Name="LessonId" />
+    </Key>
+    <Property Name="LessonId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="LessonName" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="TABLESCORE">
+    <Key>
+      <PropertyRef Name="SCOREID" />
+    </Key>
+    <Property Name="SCOREID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="StudentId" Type="int" />
+    <Property Name="LessonId" Type="int" />
+    <Property Name="Exam1" Type="smallint" />
+    <Property Name="Exam2" Type="smallint" />
+    <Property Name="Exam3" Type="smallint" />
+    <Property Name="Average" Type="decimal" Precision="5" Scale="2" />
+    <Property Name="Situation" Type="bit" />
+  </EntityType>
+  <EntityType Name="TABLESTUDENT">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Name" Type="varchar" MaxLength="50" />
+    <Property Name="Surname" Type="varchar" MaxLength="50" />
+    <Property Name="Photograph" Type="varchar" MaxLength="100" />
+  </EntityType>
+  <Association Name="FK_TABLESCORE_TABLELESSON">
+    <End Role="TABLELESSON" Type="Self.TABLELESSON" Multiplicity="0..1" />
+    <End Role="TABLESCORE" Type="Self.TABLESCORE" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TABLELESSON">
+        <PropertyRef Name="LessonId" />
+      </Principal>
+      <Dependent Role="TABLESCORE">
+        <PropertyRef Name="LessonId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_TABLESCORE_TABLESTUDENT">
+    <End Role="TABLESTUDENT" Type="Self.TABLESTUDENT" Multiplicity="0..1" />
+    <End Role="TABLESCORE" Type="Self.TABLESCORE" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TABLESTUDENT">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="TABLESCORE">
+        <PropertyRef Name="StudentId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Function Name="SCORELIST" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo" />
+  <EntityContainer Name="DBStudentExamModelStoreContainer">
+    <EntitySet Name="TABLELESSON" EntityType="Self.TABLELESSON" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="TABLESCORE" EntityType="Self.TABLESCORE" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="TABLESTUDENT" EntityType="Self.TABLESTUDENT" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_TABLESCORE_TABLELESSON" Association="Self.FK_TABLESCORE_TABLELESSON">
+      <End Role="TABLELESSON" EntitySet="TABLELESSON" />
+      <End Role="TABLESCORE" EntitySet="TABLESCORE" />
+    </AssociationSet>
+    <AssociationSet Name="FK_TABLESCORE_TABLESTUDENT" Association="Self.FK_TABLESCORE_TABLESTUDENT">
+      <End Role="TABLESTUDENT" EntitySet="TABLESTUDENT" />
+      <End Role="TABLESCORE" EntitySet="TABLESCORE" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

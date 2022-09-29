@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="DBStudentExamModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="TABLELESSON">
+    <Key>
+      <PropertyRef Name="LessonId" />
+    </Key>
+    <Property Name="LessonId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="LessonName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="TABLESCORE" Relationship="Self.FK_TABLESCORE_TABLELESSON" FromRole="TABLELESSON" ToRole="TABLESCORE" />
+  </EntityType>
+  <EntityType Name="TABLESCORE">
+    <Key>
+      <PropertyRef Name="SCOREID" />
+    </Key>
+    <Property Name="SCOREID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="StudentId" Type="Int32" />
+    <Property Name="LessonId" Type="Int32" />
+    <Property Name="Exam1" Type="Int16" />
+    <Property Name="Exam2" Type="Int16" />
+    <Property Name="Exam3" Type="Int16" />
+    <Property Name="Average" Type="Decimal" Precision="5" Scale="2" />
+    <Property Name="Situation" Type="Boolean" />
+    <NavigationProperty Name="TABLELESSON" Relationship="Self.FK_TABLESCORE_TABLELESSON" FromRole="TABLESCORE" ToRole="TABLELESSON" />
+    <NavigationProperty Name="TABLESTUDENT" Relationship="Self.FK_TABLESCORE_TABLESTUDENT" FromRole="TABLESCORE" ToRole="TABLESTUDENT" />
+  </EntityType>
+  <EntityType Name="TABLESTUDENT">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Surname" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Photograph" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="TABLESCORE" Relationship="Self.FK_TABLESCORE_TABLESTUDENT" FromRole="TABLESTUDENT" ToRole="TABLESCORE" />
+  </EntityType>
+  <Association Name="FK_TABLESCORE_TABLELESSON">
+    <End Role="TABLELESSON" Type="Self.TABLELESSON" Multiplicity="0..1" />
+    <End Role="TABLESCORE" Type="Self.TABLESCORE" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TABLELESSON">
+        <PropertyRef Name="LessonId" />
+      </Principal>
+      <Dependent Role="TABLESCORE">
+        <PropertyRef Name="LessonId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_TABLESCORE_TABLESTUDENT">
+    <End Role="TABLESTUDENT" Type="Self.TABLESTUDENT" Multiplicity="0..1" />
+    <End Role="TABLESCORE" Type="Self.TABLESCORE" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TABLESTUDENT">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="TABLESCORE">
+        <PropertyRef Name="StudentId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="DBStudentExamEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="TABLELESSON" EntityType="Self.TABLELESSON" />
+    <EntitySet Name="TABLESCORE" EntityType="Self.TABLESCORE" />
+    <EntitySet Name="TABLESTUDENT" EntityType="Self.TABLESTUDENT" />
+    <AssociationSet Name="FK_TABLESCORE_TABLELESSON" Association="Self.FK_TABLESCORE_TABLELESSON">
+      <End Role="TABLELESSON" EntitySet="TABLELESSON" />
+      <End Role="TABLESCORE" EntitySet="TABLESCORE" />
+    </AssociationSet>
+    <AssociationSet Name="FK_TABLESCORE_TABLESTUDENT" Association="Self.FK_TABLESCORE_TABLESTUDENT">
+      <End Role="TABLESTUDENT" EntitySet="TABLESTUDENT" />
+      <End Role="TABLESCORE" EntitySet="TABLESCORE" />
+    </AssociationSet>
+    <FunctionImport Name="SCORELIST" ReturnType="Collection(DBStudentExamModel.SCORELIST_Result)" />
+  </EntityContainer>
+  <ComplexType Name="SCORELIST_Result">
+    <Property Type="Int32" Name="SCOREID" Nullable="false" />
+    <Property Type="String" Name="Ad_Soyad" Nullable="true" MaxLength="101" />
+    <Property Type="String" Name="Exam1" Nullable="true" MaxLength="50" />
+    <Property Type="Int16" Name="Exam2" Nullable="true" />
+    <Property Type="Int16" Name="Exam3" Nullable="true" />
+    <Property Type="Decimal" Name="Average" Nullable="true" Precision="5" Scale="2" />
+    <Property Type="Boolean" Name="Situation" Nullable="true" />
+  </ComplexType>
+</Schema>

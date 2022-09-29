@@ -1,0 +1,11 @@
+C:\Users\Ferid\Desktop\SingletonDesignPatternWork\SingletonDesignPatternWork\bin\Debug\SingletonDesignPatternWork.exe.config
+C:\Users\Ferid\Desktop\SingletonDesignPatternWork\SingletonDesignPatternWork\bin\Debug\SingletonDesignPatternWork.exe
+C:\Users\Ferid\Desktop\SingletonDesignPatternWork\SingletonDesignPatternWork\bin\Debug\SingletonDesignPatternWork.pdb
+C:\Users\Ferid\Desktop\SingletonDesignPatternWork\SingletonDesignPatternWork\obj\Debug\SingletonDesignPatternWork.csproj.AssemblyReference.cache
+C:\Users\Ferid\Desktop\SingletonDesignPatternWork\SingletonDesignPatternWork\obj\Debug\SingletonDesignPatternWork.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ferid\Desktop\SingletonDesignPatternWork\SingletonDesignPatternWork\obj\Debug\SingletonDesignPatternWork.Form1.resources
+C:\Users\Ferid\Desktop\SingletonDesignPatternWork\SingletonDesignPatternWork\obj\Debug\SingletonDesignPatternWork.Properties.Resources.resources
+C:\Users\Ferid\Desktop\SingletonDesignPatternWork\SingletonDesignPatternWork\obj\Debug\SingletonDesignPatternWork.csproj.GenerateResource.cache
+C:\Users\Ferid\Desktop\SingletonDesignPatternWork\SingletonDesignPatternWork\obj\Debug\SingletonDesignPatternWork.csproj.CoreCompileInputs.cache
+C:\Users\Ferid\Desktop\SingletonDesignPatternWork\SingletonDesignPatternWork\obj\Debug\SingletonDesignPatternWork.exe
+C:\Users\Ferid\Desktop\SingletonDesignPatternWork\SingletonDesignPatternWork\obj\Debug\SingletonDesignPatternWork.pdb

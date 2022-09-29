@@ -1,0 +1,15 @@
+C:\Users\Ferid\Desktop\SingletonDesignPatternWork03\SingletonDesignPatternWork03\bin\Debug\net6.0\SingletonDesignPatternWork03.exe
+C:\Users\Ferid\Desktop\SingletonDesignPatternWork03\SingletonDesignPatternWork03\bin\Debug\net6.0\SingletonDesignPatternWork03.deps.json
+C:\Users\Ferid\Desktop\SingletonDesignPatternWork03\SingletonDesignPatternWork03\bin\Debug\net6.0\SingletonDesignPatternWork03.runtimeconfig.json
+C:\Users\Ferid\Desktop\SingletonDesignPatternWork03\SingletonDesignPatternWork03\bin\Debug\net6.0\SingletonDesignPatternWork03.dll
+C:\Users\Ferid\Desktop\SingletonDesignPatternWork03\SingletonDesignPatternWork03\bin\Debug\net6.0\SingletonDesignPatternWork03.pdb
+C:\Users\Ferid\Desktop\SingletonDesignPatternWork03\SingletonDesignPatternWork03\obj\Debug\net6.0\SingletonDesignPatternWork03.csproj.AssemblyReference.cache
+C:\Users\Ferid\Desktop\SingletonDesignPatternWork03\SingletonDesignPatternWork03\obj\Debug\net6.0\SingletonDesignPatternWork03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ferid\Desktop\SingletonDesignPatternWork03\SingletonDesignPatternWork03\obj\Debug\net6.0\SingletonDesignPatternWork03.AssemblyInfoInputs.cache
+C:\Users\Ferid\Desktop\SingletonDesignPatternWork03\SingletonDesignPatternWork03\obj\Debug\net6.0\SingletonDesignPatternWork03.AssemblyInfo.cs
+C:\Users\Ferid\Desktop\SingletonDesignPatternWork03\SingletonDesignPatternWork03\obj\Debug\net6.0\SingletonDesignPatternWork03.csproj.CoreCompileInputs.cache
+C:\Users\Ferid\Desktop\SingletonDesignPatternWork03\SingletonDesignPatternWork03\obj\Debug\net6.0\SingletonDesignPatternWork03.dll
+C:\Users\Ferid\Desktop\SingletonDesignPatternWork03\SingletonDesignPatternWork03\obj\Debug\net6.0\refint\SingletonDesignPatternWork03.dll
+C:\Users\Ferid\Desktop\SingletonDesignPatternWork03\SingletonDesignPatternWork03\obj\Debug\net6.0\SingletonDesignPatternWork03.pdb
+C:\Users\Ferid\Desktop\SingletonDesignPatternWork03\SingletonDesignPatternWork03\obj\Debug\net6.0\SingletonDesignPatternWork03.genruntimeconfig.cache
+C:\Users\Ferid\Desktop\SingletonDesignPatternWork03\SingletonDesignPatternWork03\obj\Debug\net6.0\ref\SingletonDesignPatternWork03.dll

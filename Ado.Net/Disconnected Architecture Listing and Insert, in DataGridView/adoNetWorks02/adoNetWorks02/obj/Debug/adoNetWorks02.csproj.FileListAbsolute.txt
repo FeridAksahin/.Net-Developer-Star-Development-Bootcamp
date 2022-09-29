@@ -1,0 +1,12 @@
+C:\Users\Ferid\Desktop\adoNetWorks02\adoNetWorks02\bin\Debug\adoNetWorks02.exe.config
+C:\Users\Ferid\Desktop\adoNetWorks02\adoNetWorks02\bin\Debug\adoNetWorks02.exe
+C:\Users\Ferid\Desktop\adoNetWorks02\adoNetWorks02\bin\Debug\adoNetWorks02.pdb
+C:\Users\Ferid\Desktop\adoNetWorks02\adoNetWorks02\obj\Debug\adoNetWorks02.csproj.AssemblyReference.cache
+C:\Users\Ferid\Desktop\adoNetWorks02\adoNetWorks02\obj\Debug\adoNetWorks02.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ferid\Desktop\adoNetWorks02\adoNetWorks02\obj\Debug\adoNetWorks02.Form1.resources
+C:\Users\Ferid\Desktop\adoNetWorks02\adoNetWorks02\obj\Debug\adoNetWorks02.Properties.Resources.resources
+C:\Users\Ferid\Desktop\adoNetWorks02\adoNetWorks02\obj\Debug\adoNetWorks02.csproj.GenerateResource.cache
+C:\Users\Ferid\Desktop\adoNetWorks02\adoNetWorks02\obj\Debug\adoNetWorks02.csproj.CoreCompileInputs.cache
+C:\Users\Ferid\Desktop\adoNetWorks02\adoNetWorks02\obj\Debug\adoNetWorks02.exe
+C:\Users\Ferid\Desktop\adoNetWorks02\adoNetWorks02\obj\Debug\adoNetWorks02.pdb
+C:\Users\Ferid\Desktop\adoNetWorks02\adoNetWorks02\obj\Debug\adoNetWorks02.Categories.resources

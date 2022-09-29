@@ -1,0 +1,15 @@
+C:\Users\Ferid\Desktop\BuilderDesignPatternWork\BuilderDesignPatternWork\bin\Debug\net6.0\BuilderDesignPatternWork.exe
+C:\Users\Ferid\Desktop\BuilderDesignPatternWork\BuilderDesignPatternWork\bin\Debug\net6.0\BuilderDesignPatternWork.deps.json
+C:\Users\Ferid\Desktop\BuilderDesignPatternWork\BuilderDesignPatternWork\bin\Debug\net6.0\BuilderDesignPatternWork.runtimeconfig.json
+C:\Users\Ferid\Desktop\BuilderDesignPatternWork\BuilderDesignPatternWork\bin\Debug\net6.0\BuilderDesignPatternWork.dll
+C:\Users\Ferid\Desktop\BuilderDesignPatternWork\BuilderDesignPatternWork\bin\Debug\net6.0\BuilderDesignPatternWork.pdb
+C:\Users\Ferid\Desktop\BuilderDesignPatternWork\BuilderDesignPatternWork\obj\Debug\net6.0\BuilderDesignPatternWork.csproj.AssemblyReference.cache
+C:\Users\Ferid\Desktop\BuilderDesignPatternWork\BuilderDesignPatternWork\obj\Debug\net6.0\BuilderDesignPatternWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ferid\Desktop\BuilderDesignPatternWork\BuilderDesignPatternWork\obj\Debug\net6.0\BuilderDesignPatternWork.AssemblyInfoInputs.cache
+C:\Users\Ferid\Desktop\BuilderDesignPatternWork\BuilderDesignPatternWork\obj\Debug\net6.0\BuilderDesignPatternWork.AssemblyInfo.cs
+C:\Users\Ferid\Desktop\BuilderDesignPatternWork\BuilderDesignPatternWork\obj\Debug\net6.0\BuilderDesignPatternWork.csproj.CoreCompileInputs.cache
+C:\Users\Ferid\Desktop\BuilderDesignPatternWork\BuilderDesignPatternWork\obj\Debug\net6.0\BuilderDesignPatternWork.dll
+C:\Users\Ferid\Desktop\BuilderDesignPatternWork\BuilderDesignPatternWork\obj\Debug\net6.0\refint\BuilderDesignPatternWork.dll
+C:\Users\Ferid\Desktop\BuilderDesignPatternWork\BuilderDesignPatternWork\obj\Debug\net6.0\BuilderDesignPatternWork.pdb
+C:\Users\Ferid\Desktop\BuilderDesignPatternWork\BuilderDesignPatternWork\obj\Debug\net6.0\BuilderDesignPatternWork.genruntimeconfig.cache
+C:\Users\Ferid\Desktop\BuilderDesignPatternWork\BuilderDesignPatternWork\obj\Debug\net6.0\ref\BuilderDesignPatternWork.dll

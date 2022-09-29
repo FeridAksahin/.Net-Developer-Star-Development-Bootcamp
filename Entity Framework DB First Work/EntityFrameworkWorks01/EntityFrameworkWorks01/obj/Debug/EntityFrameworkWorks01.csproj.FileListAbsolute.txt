@@ -1,0 +1,16 @@
+C:\Users\Ferid\Desktop\EntityFrameworkWorks01\EntityFrameworkWorks01\bin\Debug\EntityFrameworkWorks01.exe.config
+C:\Users\Ferid\Desktop\EntityFrameworkWorks01\EntityFrameworkWorks01\bin\Debug\EntityFrameworkWorks01.exe
+C:\Users\Ferid\Desktop\EntityFrameworkWorks01\EntityFrameworkWorks01\bin\Debug\EntityFrameworkWorks01.pdb
+C:\Users\Ferid\Desktop\EntityFrameworkWorks01\EntityFrameworkWorks01\bin\Debug\EntityFramework.dll
+C:\Users\Ferid\Desktop\EntityFrameworkWorks01\EntityFrameworkWorks01\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ferid\Desktop\EntityFrameworkWorks01\EntityFrameworkWorks01\bin\Debug\EntityFramework.xml
+C:\Users\Ferid\Desktop\EntityFrameworkWorks01\EntityFrameworkWorks01\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ferid\Desktop\EntityFrameworkWorks01\EntityFrameworkWorks01\obj\Debug\EntityFrameworkWorks01.csproj.AssemblyReference.cache
+C:\Users\Ferid\Desktop\EntityFrameworkWorks01\EntityFrameworkWorks01\obj\Debug\EntityFrameworkWorks01.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ferid\Desktop\EntityFrameworkWorks01\EntityFrameworkWorks01\obj\Debug\EntityFrameworkWorks01.Form1.resources
+C:\Users\Ferid\Desktop\EntityFrameworkWorks01\EntityFrameworkWorks01\obj\Debug\EntityFrameworkWorks01.Properties.Resources.resources
+C:\Users\Ferid\Desktop\EntityFrameworkWorks01\EntityFrameworkWorks01\obj\Debug\EntityFrameworkWorks01.csproj.GenerateResource.cache
+C:\Users\Ferid\Desktop\EntityFrameworkWorks01\EntityFrameworkWorks01\obj\Debug\EntityFrameworkWorks01.csproj.CoreCompileInputs.cache
+C:\Users\Ferid\Desktop\EntityFrameworkWorks01\EntityFrameworkWorks01\obj\Debug\EntityFrameworkWorks01.csproj.CopyComplete
+C:\Users\Ferid\Desktop\EntityFrameworkWorks01\EntityFrameworkWorks01\obj\Debug\EntityFrameworkWorks01.exe
+C:\Users\Ferid\Desktop\EntityFrameworkWorks01\EntityFrameworkWorks01\obj\Debug\EntityFrameworkWorks01.pdb

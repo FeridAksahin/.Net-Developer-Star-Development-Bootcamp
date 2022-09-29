@@ -1,0 +1,30 @@
+C:\Users\Ferid\Desktop\Solid_Works\Solid_Works\bin\Debug\net6.0\Solid_Works.exe
+C:\Users\Ferid\Desktop\Solid_Works\Solid_Works\bin\Debug\net6.0\Solid_Works.deps.json
+C:\Users\Ferid\Desktop\Solid_Works\Solid_Works\bin\Debug\net6.0\Solid_Works.runtimeconfig.json
+C:\Users\Ferid\Desktop\Solid_Works\Solid_Works\bin\Debug\net6.0\Solid_Works.dll
+C:\Users\Ferid\Desktop\Solid_Works\Solid_Works\bin\Debug\net6.0\Solid_Works.pdb
+C:\Users\Ferid\Desktop\Solid_Works\Solid_Works\obj\Debug\net6.0\Solid_Works.csproj.AssemblyReference.cache
+C:\Users\Ferid\Desktop\Solid_Works\Solid_Works\obj\Debug\net6.0\Solid_Works.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ferid\Desktop\Solid_Works\Solid_Works\obj\Debug\net6.0\Solid_Works.AssemblyInfoInputs.cache
+C:\Users\Ferid\Desktop\Solid_Works\Solid_Works\obj\Debug\net6.0\Solid_Works.AssemblyInfo.cs
+C:\Users\Ferid\Desktop\Solid_Works\Solid_Works\obj\Debug\net6.0\Solid_Works.csproj.CoreCompileInputs.cache
+C:\Users\Ferid\Desktop\Solid_Works\Solid_Works\obj\Debug\net6.0\Solid_Works.dll
+C:\Users\Ferid\Desktop\Solid_Works\Solid_Works\obj\Debug\net6.0\refint\Solid_Works.dll
+C:\Users\Ferid\Desktop\Solid_Works\Solid_Works\obj\Debug\net6.0\Solid_Works.pdb
+C:\Users\Ferid\Desktop\Solid_Works\Solid_Works\obj\Debug\net6.0\Solid_Works.genruntimeconfig.cache
+C:\Users\Ferid\Desktop\Solid_Works\Solid_Works\obj\Debug\net6.0\ref\Solid_Works.dll
+C:\Users\Ferid\Desktop\Bilge Adam .NET Works\Week04\Solid_Works\Solid_Works\bin\Debug\net6.0\Solid_Works.exe
+C:\Users\Ferid\Desktop\Bilge Adam .NET Works\Week04\Solid_Works\Solid_Works\bin\Debug\net6.0\Solid_Works.deps.json
+C:\Users\Ferid\Desktop\Bilge Adam .NET Works\Week04\Solid_Works\Solid_Works\bin\Debug\net6.0\Solid_Works.runtimeconfig.json
+C:\Users\Ferid\Desktop\Bilge Adam .NET Works\Week04\Solid_Works\Solid_Works\bin\Debug\net6.0\Solid_Works.dll
+C:\Users\Ferid\Desktop\Bilge Adam .NET Works\Week04\Solid_Works\Solid_Works\bin\Debug\net6.0\Solid_Works.pdb
+C:\Users\Ferid\Desktop\Bilge Adam .NET Works\Week04\Solid_Works\Solid_Works\obj\Debug\net6.0\Solid_Works.csproj.AssemblyReference.cache
+C:\Users\Ferid\Desktop\Bilge Adam .NET Works\Week04\Solid_Works\Solid_Works\obj\Debug\net6.0\Solid_Works.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ferid\Desktop\Bilge Adam .NET Works\Week04\Solid_Works\Solid_Works\obj\Debug\net6.0\Solid_Works.AssemblyInfoInputs.cache
+C:\Users\Ferid\Desktop\Bilge Adam .NET Works\Week04\Solid_Works\Solid_Works\obj\Debug\net6.0\Solid_Works.AssemblyInfo.cs
+C:\Users\Ferid\Desktop\Bilge Adam .NET Works\Week04\Solid_Works\Solid_Works\obj\Debug\net6.0\Solid_Works.csproj.CoreCompileInputs.cache
+C:\Users\Ferid\Desktop\Bilge Adam .NET Works\Week04\Solid_Works\Solid_Works\obj\Debug\net6.0\Solid_Works.dll
+C:\Users\Ferid\Desktop\Bilge Adam .NET Works\Week04\Solid_Works\Solid_Works\obj\Debug\net6.0\refint\Solid_Works.dll
+C:\Users\Ferid\Desktop\Bilge Adam .NET Works\Week04\Solid_Works\Solid_Works\obj\Debug\net6.0\Solid_Works.pdb
+C:\Users\Ferid\Desktop\Bilge Adam .NET Works\Week04\Solid_Works\Solid_Works\obj\Debug\net6.0\Solid_Works.genruntimeconfig.cache
+C:\Users\Ferid\Desktop\Bilge Adam .NET Works\Week04\Solid_Works\Solid_Works\obj\Debug\net6.0\ref\Solid_Works.dll

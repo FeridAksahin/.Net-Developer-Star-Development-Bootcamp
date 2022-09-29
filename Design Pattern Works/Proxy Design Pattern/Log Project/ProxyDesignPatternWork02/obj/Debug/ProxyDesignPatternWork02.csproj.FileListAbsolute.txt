@@ -1,0 +1,12 @@
+C:\Users\Ferid\Desktop\ProxyDesignPatternWork02\ProxyDesignPatternWork02\bin\Debug\ProxyDesignPatternWork02.exe.config
+C:\Users\Ferid\Desktop\ProxyDesignPatternWork02\ProxyDesignPatternWork02\bin\Debug\ProxyDesignPatternWork02.exe
+C:\Users\Ferid\Desktop\ProxyDesignPatternWork02\ProxyDesignPatternWork02\bin\Debug\ProxyDesignPatternWork02.pdb
+C:\Users\Ferid\Desktop\ProxyDesignPatternWork02\ProxyDesignPatternWork02\obj\Debug\ProxyDesignPatternWork02.csproj.AssemblyReference.cache
+C:\Users\Ferid\Desktop\ProxyDesignPatternWork02\ProxyDesignPatternWork02\obj\Debug\ProxyDesignPatternWork02.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ferid\Desktop\ProxyDesignPatternWork02\ProxyDesignPatternWork02\obj\Debug\ProxyDesignPatternWork02.Form1.resources
+C:\Users\Ferid\Desktop\ProxyDesignPatternWork02\ProxyDesignPatternWork02\obj\Debug\ProxyDesignPatternWork02.Properties.Resources.resources
+C:\Users\Ferid\Desktop\ProxyDesignPatternWork02\ProxyDesignPatternWork02\obj\Debug\ProxyDesignPatternWork02.csproj.GenerateResource.cache
+C:\Users\Ferid\Desktop\ProxyDesignPatternWork02\ProxyDesignPatternWork02\obj\Debug\ProxyDesignPatternWork02.csproj.CoreCompileInputs.cache
+C:\Users\Ferid\Desktop\ProxyDesignPatternWork02\ProxyDesignPatternWork02\obj\Debug\ProxyDesignPatternWork02.exe
+C:\Users\Ferid\Desktop\ProxyDesignPatternWork02\ProxyDesignPatternWork02\obj\Debug\ProxyDesignPatternWork02.pdb
+C:\Users\Ferid\Desktop\ProxyDesignPatternWork02\ProxyDesignPatternWork02\obj\Debug\ProxyDesignPatternWork02.Form2.resources
